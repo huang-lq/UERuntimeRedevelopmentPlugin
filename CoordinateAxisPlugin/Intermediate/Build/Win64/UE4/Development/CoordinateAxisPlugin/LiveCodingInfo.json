@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CoordinateAxisPlugin.cpp.obj": [
+			"ColorPickerActor.cpp.obj",
+			"ColorPickerWidget.cpp.obj",
+			"CoordinateAxisComponent.cpp.obj",
+			"CoordinateAxisPlugin.cpp.obj",
+			"CoordinateAxisUserWidget.cpp.obj",
+			"Window.cpp.obj"
+		],
+		"Module.CoordinateAxisPlugin.gen.cpp.obj": [
+			"ColorPickerActor.gen.cpp.obj",
+			"ColorPickerWidget.gen.cpp.obj",
+			"CoordinateAxisComponent.gen.cpp.obj",
+			"CoordinateAxisPlugin.init.gen.cpp.obj",
+			"CoordinateAxisUserWidget.gen.cpp.obj",
+			"Window.gen.cpp.obj"
+		]
+	}
+}

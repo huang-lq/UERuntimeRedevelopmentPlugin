@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CoordinateAxisPlugin-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Project\PluginDemo\Intermediate\Build\Win64\PluginDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\Project\PluginDemo\Plugins\CoordinateAxisPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoordinateAxisPlugin\Module.CoordinateAxisPlugin.cpp.obj"
+"H:\Project\PluginDemo\Plugins\CoordinateAxisPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoordinateAxisPlugin\Module.CoordinateAxisPlugin.gen.cpp.obj"
+"H:\Project\PluginDemo\Plugins\CoordinateAxisPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoordinateAxisPlugin\Default.rc2.res"
+/OUT:"H:\Project\PluginDemo\Plugins\CoordinateAxisPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoordinateAxisPlugin\UE4Editor-CoordinateAxisPlugin-0002.lib"
