@@ -6,6 +6,6 @@ This plug-in is mainly used for Redevelopment under Runtime.This plug-in can vis
 ![旋转](https://user-images.githubusercontent.com/50535321/174435653-06b64fcd-907c-4969-99e0-681a8ebbf48d.jpg)
 ![缩放](https://user-images.githubusercontent.com/50535321/174435654-08b04eb8-8b2b-4131-98ac-717a7505f6ee.jpg)
 See plugindemo for specific usage methods.
-If you have any questions, please contact me
-Github: https://github.com/huang-lq
-CSDN: https://blog.csdn.net/weixin_44346103?type=blog
+* If you have any questions, please contact me
+* Github: https://github.com/huang-lq
+* CSDN: https://blog.csdn.net/weixin_44346103?type=blog
